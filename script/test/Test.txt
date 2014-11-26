@@ -1,0 +1,7 @@
+#TouhouDanmakufu
+#ScriptVersion[3]
+#Title["test"]
+#Text["test"]
+
+script_enemy_main {
+}
